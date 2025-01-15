@@ -33,8 +33,8 @@ RGB Role Flasher Bot is a customizable Discord bot that allows server administra
      ```json
      {
        "bot": {
-         "botName": "RGB Role Manager",
-         "botOwner": "YourName",
+         "botName": "RGB Role Flasher",
+         "botOwner": "ThunderDoesDev",
          "token": "YOUR_BOT_TOKEN"
        },
        "guilds": {
