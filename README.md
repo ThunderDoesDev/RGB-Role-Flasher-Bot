@@ -78,13 +78,20 @@ RGB Role Flasher Bot is a customizable Discord bot that allows server administra
 2. Use the `/help` command to see the list of available commands.
 3. Configure roles and colors using the commands.
 
+```Note: Setting the delay for RGB role flashing to 1000ms or lower may cause excessive API requests, which could result in your IP being temporarily banned by Discord.```
+
 ## Development
 
 ### Logging
 The bot uses a logger for tracking events and errors. Ensure the `logger.js` file is present in the project directory.
 
-### Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request for improvements and new features.
+### Errors Handling
+The bot uses a error handling for tracking errors. Ensure the `errors.js` file is present in the project directory.
+
+## Support
+For support, issues, or enhancements, please open an issue in this repository or join our discord support server.
+
+[Join Support Server](https://discord.gg/thunderdoesdev)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
