@@ -1,4 +1,13 @@
 {
+  "name": "rgb-role-flasher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThunderDoesDev",
+  "license": "MIT",
+  "description": "A simple Discord bot that flashes roles in a guild.",
   "dependencies": {
     "cfonts": "^3.3.0",
     "chalk": "^4.1.2",
