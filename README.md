@@ -83,7 +83,7 @@ RGB Role Flasher Bot is a customizable Discord bot that allows server administra
 ## Development
 
 ### Logging
-The bot uses a logger for tracking events and errors. Ensure the `logger.js` file is present in the project directory.
+The bot uses a logger for tracking events. Ensure the `logger.js` file is present in the project directory.
 
 ### Errors Handling
 The bot uses a error handling for tracking errors. Ensure the `errors.js` file is present in the project directory.
