@@ -41,7 +41,7 @@ RGB Role Flasher Bot is a customizable Discord bot that allows server administra
          "YOUR_GUILD_ID": {
            "roles": [],
            "colors": {
-             "defaultColors": ["#FF0000", "#00FF00", "#0000FF"],
+             "defaultColors": ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#8B00FF"],
              "customColors": []
            },
            "flashing": {
