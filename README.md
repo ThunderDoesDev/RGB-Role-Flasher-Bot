@@ -19,7 +19,7 @@ RGB Role Flasher Bot is a customizable Discord bot that allows server administra
 1. Clone the repository:
    ```bash
    git clone https://github.com/ThunderDoesDev/RGB-Role-Flasher-Bot.git
-   cd RGB-Role-Flasher
+   cd RGB-Role-Flasher-Bot
    ```
 
 2. Install dependencies:
