@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.17.3",
+    "fs": "^0.0.1-security",
+    "util": "^0.12.5"
+  }
+}
