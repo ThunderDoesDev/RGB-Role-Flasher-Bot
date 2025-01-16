@@ -5,7 +5,7 @@
     "token": "YOUR_BOT_TOKEN"
   },
   "guilds": {
-    "GUILD_ID": {
+    "YOUR_GUILD_ID": {
       "roles": [],
       "colors": {
         "defaultColors": ["#FF0000", "#00FF00", "#0000FF"],
