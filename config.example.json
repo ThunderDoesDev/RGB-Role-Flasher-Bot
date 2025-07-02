@@ -1,7 +1,7 @@
 {
   "bot": {
     "botName": "YOUR_BOT_NAME",
-    "botID": "YOUR_BOT_ID"
+    "botID": "YOUR_BOT_ID",
     "token": "YOUR_BOT_TOKEN"
   },
   "guilds": {

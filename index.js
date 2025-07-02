@@ -45,6 +45,7 @@ const client = new Client({
 client.footer = 'Made by ThunderDoesDev';
 client.settings = require('./config.json');
 client.logger = require('./logger.js');
+client.errors = require('./errors.js');
 client.rgbFlashingIntervals = new Map();
 
 client.once('ready', async () => {
